@@ -1,1 +1,3 @@
+-- select command is to .....
+
 SELECT * FROM employees
